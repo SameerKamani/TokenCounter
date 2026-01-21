@@ -1,0 +1,6 @@
+gradio
+tiktoken
+transformers
+sentencepiece
+torch
+
